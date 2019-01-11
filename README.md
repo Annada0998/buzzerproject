@@ -1,2 +1,0 @@
-# buzzerproject
-blind man stick
